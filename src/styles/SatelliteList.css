@@ -1,0 +1,12 @@
+
+.satellite-list-container {
+    margin: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  .sat-list {
+    margin: 20px;
+    height: 200px;
+    overflow-y: auto;
+  }
+  
